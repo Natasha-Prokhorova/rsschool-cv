@@ -64,5 +64,3 @@
    English - Basic
    
    Deutsch - Basic
-   
-    
